@@ -1,0 +1,8 @@
+C:\Users\mtn1z\Desktop\blindsort-console\bin\Debug\blindsort-console.exe.config
+C:\Users\mtn1z\Desktop\blindsort-console\bin\Debug\blindsort-console.exe
+C:\Users\mtn1z\Desktop\blindsort-console\bin\Debug\blindsort-console.pdb
+C:\Users\mtn1z\Desktop\blindsort-console\obj\Debug\blindsort-console.csproj.AssemblyReference.cache
+C:\Users\mtn1z\Desktop\blindsort-console\obj\Debug\blindsort-console.csproj.CoreCompileInputs.cache
+C:\Users\mtn1z\Desktop\blindsort-console\obj\Debug\blindsort-console.exe
+C:\Users\mtn1z\Desktop\blindsort-console\obj\Debug\blindsort-console.pdb
+C:\Users\mtn1z\Desktop\blindsort-console\obj\Debug\blindsort-console.exe.config
