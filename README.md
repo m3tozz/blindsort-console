@@ -7,6 +7,5 @@ a simple number sorting game (consoleApp)
 - When all positions are filled, the game checks if the numbers are sorted in ascending order.  
 - If sorted, you win; if not, you lose.
 
---
 # installation
 <a href="https://github.com/m3tozz/blindsort-console/releases/download/v1/blindsort-console-v1.exe">Click Here To Download .exe File</a>
